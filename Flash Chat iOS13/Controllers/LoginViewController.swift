@@ -21,7 +21,7 @@ class LoginViewController: UIViewController {
             Auth.auth().signIn(withEmail: email, password: password) { authResult, error in
                 if let e = error {
                     // create the alert
-                    let alert = UIAlertController(title: "Error", message: e.localizedDescription, preferredStyle: UIAlertController.Style.alert)
+                    let alert = UIAlertController(title: "Error 2", message: e.localizedDescription, preferredStyle: UIAlertController.Style.alert)
 
                     // add an action (button)
                     alert.addAction(UIAlertAction(title: "Try again", style: UIAlertAction.Style.default, handler: nil))

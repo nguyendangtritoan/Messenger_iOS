@@ -20,9 +20,9 @@ Learn how to use Firebase from GC, TableView from SwiftUI, navigation between vi
 
 
 # Demo
-<img src="https://user-images.githubusercontent.com/45658401/110221420-c9476d00-7ed4-11eb-810d-65d6b430177e.png" alt="image" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/45658401/110256428-8acbb400-7fa1-11eb-8533-a592ab087c11.png" alt="image" style="zoom:50%;" />
 
-<img src="https://user-images.githubusercontent.com/45658401/110221450-ff84ec80-7ed4-11eb-8ddb-431b7895b1da.png" alt="image" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/45658401/110221450-ff84ec80-7ed4-11eb-8ddb-431b7895b1da.png" alt="image" style="zoom:50%;" />
 
-<img src="https://user-images.githubusercontent.com/45658401/110221474-280ce680-7ed5-11eb-91fc-d6ffe10400bd.png" alt="image" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/45658401/110256374-4809dc00-7fa1-11eb-9ccc-381d5c8023a1.png" alt="image" style="zoom:50%;" />
 
