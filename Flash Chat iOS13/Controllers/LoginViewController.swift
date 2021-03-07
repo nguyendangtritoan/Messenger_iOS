@@ -29,7 +29,7 @@ class LoginViewController: UIViewController {
                     // show the alert
                     self.present(alert, animated: true, completion: nil)
                 }else {
-                    self.performSegue(withIdentifier: "LoginToChat", sender: self)
+                    self.performSegue(withIdentifier: K.loginSegue, sender: self)
                 }
             }
         }
